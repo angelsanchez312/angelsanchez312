@@ -1,18 +1,17 @@
-<h1>Hi, I'm Angel! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/angelsanchezit/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
-
-<h2>👨‍💻 Projects:</h2>
-
+<h1>Hi, I'm Angel! <br/><a href="https://github.com/angelsanchez312/">Programmer</a>, <a href="https://www.linkedin.com/in/angelsanchezit/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="AngelSanchez | Website" width="22px" src="https://pic.onlinewebfonts.com/svg/img_504360.png" />][website]
 [<img align="left" alt="AngelSanchez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AngelSanchez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AngelSanchez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AngelSanchez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AngelSanchez | GitHUb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[twitter]: https://twitter.com/
+[website]: https://angelsanchez.me/
+[twitter]: https://twitter.com/AngelSanchez604
 [youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
+[github]: https://github.com/angelsanchez312
 [linkedin]: https://linkedin.com/in/angelsanchezit
 
 <!--
