@@ -1,6 +1,6 @@
-<h1>Hi, I'm Angel! <br/><a href="https://github.com/angelsanchez312/">Programmer</a>, <a href="https://www.linkedin.com/in/angelsanchezit/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Angel! <br/>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="AngelSanchez | Website" width="22px" src="https://pic.onlinewebfonts.com/svg/img_504360.png" />][website]
 [<img align="left" alt="AngelSanchez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
